@@ -27,6 +27,21 @@ public class EcommerceTest2 extends Utility {
 		System.out.println("Sai Praneeth Chowdary Davuluri");
 	}
 	@Test
+	public void Sample1()
+	{
+		System.out.println("Sai Praneeth Chowdary Davuluri");
+	}
+	@Test
+	public void Sample2()
+	{
+		System.out.println("Sai Praneeth Chowdary Davuluri");
+	}
+	@Test
+	public void Sample3()
+	{
+		System.out.println("Sai Praneeth Chowdary Davuluri");
+	}
+	@Test
 	public void CompleteFlow()
 	{
 		driver.findElement(By.id("com.androidsample.generalstore:id/spinnerCountry")).click();
