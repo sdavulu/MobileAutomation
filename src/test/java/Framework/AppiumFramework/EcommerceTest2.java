@@ -22,6 +22,11 @@ public class EcommerceTest2 extends Utility {
 				" com.androidsample.generalStore/com.androidsample.generalstore.MainActivity"));
 	}
 	@Test
+	public void Sample()
+	{
+		System.out.println("Sai Praneeth Chowdary Davuluri");
+	}
+	@Test
 	public void CompleteFlow()
 	{
 		driver.findElement(By.id("com.androidsample.generalstore:id/spinnerCountry")).click();
